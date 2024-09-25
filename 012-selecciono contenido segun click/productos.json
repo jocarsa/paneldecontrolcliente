@@ -1,0 +1,38 @@
+[
+    {
+        "nombre":"producto1",
+        "precio":"40",
+        "peso":"4",
+        "descripcion":"Esta es la descripcion del producto"
+    },
+    {
+        "nombre":"producto1",
+        "precio":"40",
+        "peso":"4",
+        "descripcion":"Esta es la descripcion del producto"
+    },
+    {
+        "nombre":"producto1",
+        "precio":"40",
+        "peso":"4",
+        "descripcion":"Esta es la descripcion del producto"
+    },
+    {
+        "nombre":"producto1",
+        "precio":"40",
+        "peso":"4",
+        "descripcion":"Esta es la descripcion del producto"
+    },
+    {
+        "nombre":"producto1",
+        "precio":"40",
+        "peso":"4",
+        "descripcion":"Esta es la descripcion del producto"
+    },
+    {
+        "nombre":"producto1",
+        "precio":"40",
+        "peso":"4",
+        "descripcion":"Esta es la descripcion del producto"
+    }
+]

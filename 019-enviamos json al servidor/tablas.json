@@ -1,0 +1,9 @@
+[
+    {"nombre":"clientes"},
+    {"nombre":"productos"},
+    {"nombre":"pedidos"},
+    {"nombre":"empleados"},
+    {"nombre":"proveedores"},
+    {"nombre":"ventas"},
+    {"nombre":"pagos"}
+]
